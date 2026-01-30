@@ -1,0 +1,174 @@
+{
+  "student": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "location": "Los Angeles",
+      "phone": 2345678901,
+      "courses": [
+        "English",
+        "History"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "location": "Chicago",
+      "phone": 3456789012,
+      "courses": [
+        "Art",
+        "Music"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "location": "Houston",
+      "phone": 4567890123,
+      "courses": [
+        "Physics",
+        "Chemistry"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "location": "Phoenix",
+      "phone": 5678901234,
+      "courses": [
+        "Biology",
+        "Geography"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Diana Evans",
+      "location": "Philadelphia",
+      "phone": 6789012345,
+      "courses": [
+        "Computer Science",
+        "Math"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ethan Foster",
+      "location": "San Antonio",
+      "phone": 7890123456,
+      "courses": [
+        "History",
+        "Economics"
+      ]
+    },
+    {
+      "id": "11",
+      "courses": [
+        "Data Science",
+        "Electronics and TeleCommunication"
+      ],
+      "phone": 747816768,
+      "name": "Anik Sinhababu",
+      "location": "Hyderabad, India"
+    },
+    {
+      "id": "8",
+      "courses": [
+        "Data Science",
+        "Electronics and TeleCommunication"
+      ],
+      "phone": 747816768,
+      "name": "Anik Sinhababu",
+      "location": "Hyderabad, India"
+    },
+    {
+      "id": "10",
+      "courses": [
+        "Data Science",
+        "Electronics and TeleCommunication"
+      ],
+      "phone": 747816768,
+      "name": "Anik Sinhababu",
+      "location": "Hyderabad, India"
+    },
+    {
+      "id": "10",
+      "courses": [
+        "CS",
+        "Python"
+      ],
+      "phone": 747816768,
+      "name": "Anik Sinhababu",
+      "location": "Hyderabad, India"
+    },
+    {
+      "id": "10",
+      "courses": [
+        "CS",
+        "Python"
+      ],
+      "phone": 747816768,
+      "name": "Udith",
+      "location": "Hyderabad, India"
+    },
+    {
+      "id": "13",
+      "name": "Atul Aditya",
+      "location": "Kolkata, WB, India",
+      "phone": 79085672,
+      "courses": [
+        "Ruby",
+        "Rust"
+      ]
+    },
+    {
+      "id": "14",
+      "courses": [
+        "C++",
+        "Antenna Theory"
+      ],
+      "phone": 987654321,
+      "name": "Arihant",
+      "location": "Assam, India"
+    },
+    {
+      "id": "14",
+      "courses": [
+        "C++",
+        "Antenna Theory"
+      ],
+      "phone": 987654321,
+      "name": "Arihant",
+      "location": "Assam, India"
+    },
+    {
+      "id": "14",
+      "courses": [
+        "C++",
+        "Antenna Theory"
+      ],
+      "phone": 987654321,
+      "name": "Arihant",
+      "location": "Assam, India"
+    },
+    {
+      "id": "8",
+      "courses": [
+        "Data Science",
+        "Electronics and TeleCommunication"
+      ],
+      "phone": 747816768,
+      "name": "Anik Sinhababu",
+      "location": "Hyderabad, India"
+    },
+    {
+      "id": "8",
+      "courses": [
+        "Data Science",
+        "Electronics and TeleCommunication"
+      ],
+      "phone": 747816768,
+      "name": "Anik Sinhababu",
+      "location": "Hyderabad, India"
+    }
+  ]
+}

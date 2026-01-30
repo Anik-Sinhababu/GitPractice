@@ -1,0 +1,17 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="25.942884">
+<testsuite name="HandleMultiplePagesAndWindows.spec.js" timestamp="2026-01-28T05:30:51.514Z" hostname="chromium" tests="2" failures="0" skipped="0" time="23.871" errors="0">
+<testcase name="test1" classname="HandleMultiplePagesAndWindows.spec.js" time="15.694">
+<system-out>
+<![CDATA[Number of pages:2
+]]>
+</system-out>
+</testcase>
+<testcase name="test2" classname="HandleMultiplePagesAndWindows.spec.js" time="8.177">
+<system-out>
+<![CDATA[New Page Title: OrangeHRM | LinkedIn
+New Page URL: https://www.linkedin.com/company/orangehrm
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
