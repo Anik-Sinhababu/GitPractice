@@ -1,0 +1,17 @@
+//All popular git commands
+1) git init {to initialize a new git repository}
+2) git clone <repository_url>   {to clone an existing repository}
+3) git status   {to check the status of the repository}
+4) git add <file_name> or git add .   {to stage changes before committing, use . to stage all changes}
+5) git commit -m "commit message"  {to commit staged changes with a message}
+6) git push origin <branch_name>  {to push committed changes to a remote repository}
+7) git pull origin <branch_name>    {to fetch and merge changes from a remote repository}
+8) git pull origin <branch_name> --rebase   {to fetch and rebase changes from a remote repository}    
+9) git branch    {to list all branches in the repository}
+10) git checkout <branch_name>   {to switch to a different branch}
+11) git checkout -b <new_branch_name>   {to create and switch to a new branch}
+12) git push -u origin <branch_name>   {to push a new branch to the remote repository and set the upstream}
+13) git merge <branch_name>   {to merge a branch into the current branch}
+14) git log   {to view the commit history}
+15) git diff   {to see the differences between working directory and the index or between commits}
+16) git remote -v   {to view the remote repositories associated with the local repository}
